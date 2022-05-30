@@ -14,4 +14,3 @@ The application is based on one single state that is stored in a redux store. St
 
 ### TailWind CSS
 This application uses Tailwind CSS for it's styling. Tailwind is a CSS framework that incorporates in-line styling for rapidly building custom user interfaces.
-# fruity-counter
