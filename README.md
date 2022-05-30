@@ -1,5 +1,6 @@
 # About the App
 FruityCounter is an easy and simple counter app. With the display of two counters, FruityCounter easily lets you track multiple values.
+https://fruity-counter-keelan.herokuapp.com/
 
 ## How To Use
 Users are able to view a number which starts at the number '0' and is able to change it's value by clicking different buttons such as: plus, minus, async, add if odd, add if even buttons.
